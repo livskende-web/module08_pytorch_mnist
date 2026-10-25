@@ -1,0 +1,7 @@
+
+#ignore python cache files
+__pycache__/
+*.pyc
+
+#ignore downloaded mnist data
+data/
